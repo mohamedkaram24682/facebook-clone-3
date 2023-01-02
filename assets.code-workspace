@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "assets"
+		},
+		{
+			"path": "html-css-fb-clone-master"
+		},
+		{
+			"path": "icons"
+		},
+		{
+			"path": "image"
+		},
+		{
+			"path": "svg"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-css-fb-clone-master"
+	}
+}
